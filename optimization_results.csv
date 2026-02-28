@@ -1,0 +1,99 @@
+MSME_ID,Sector,Growth_Category,Selected_Scheme,Subsidy_Cost,Revenue_Before,Revenue_After,Revenue_Gain,Jobs_Created,Impact_Score,Efficiency_ROI,Allocation_Status,Justification
+MSME_250,Retail,Moderate,Rural Agri-Boost,400000,749,861.35,112.35,6,80.445,0.0002011125,Selected,Optimal Impact ROI within Budget
+MSME_267,Technology,Low,Digital Startup Fund,300000,792,871.2,79.2,4,56.64,0.0001888,Selected,Optimal Impact ROI within Budget
+MSME_196,Services,Low,Digital Startup Fund,300000,766,842.6,76.6,4,54.81999999999999,0.00018273333333333332,Rejected,Budget Capacity Exhausted
+MSME_337,Agri-Tech,Moderate,Rural Agri-Boost,400000,673,773.95,100.95,6,72.46499999999999,0.00018116249999999997,Rejected,Budget Capacity Exhausted
+MSME_180,Retail,Moderate,Rural Agri-Boost,400000,663,762.45,99.45,6,71.41499999999999,0.00017853749999999997,Rejected,Budget Capacity Exhausted
+MSME_215,Retail,Moderate,Rural Agri-Boost,400000,650,747.5,97.5,6,70.05,0.000175125,Rejected,Budget Capacity Exhausted
+MSME_218,Agri-Tech,Moderate,Rural Agri-Boost,400000,610,701.5,91.5,6,65.85,0.00016462499999999998,Rejected,Budget Capacity Exhausted
+MSME_083,Agri-Tech,Moderate,Rural Agri-Boost,400000,601,691.15,90.15,6,64.905,0.0001622625,Rejected,Budget Capacity Exhausted
+MSME_269,Renewable Energy,High,Green Tech Grant,850000,798,973.56,175.56,9,125.592,0.00014775529411764705,Rejected,Budget Capacity Exhausted
+MSME_197,Services,Low,Digital Startup Fund,300000,598,657.8,59.8,4,43.059999999999995,0.00014353333333333332,Rejected,Budget Capacity Exhausted
+MSME_011,Retail,Moderate,Rural Agri-Boost,400000,525,603.75,78.75,6,56.925,0.0001423125,Rejected,Budget Capacity Exhausted
+MSME_323,Technology,High,Pharma R&D Incentive,1000000,792,990.0,198.0,10,141.6,0.0001416,Rejected,Budget Capacity Exhausted
+MSME_378,Manufacturing,High,Green Tech Grant,850000,762,929.64,167.64,9,120.04799999999999,0.0001412329411764706,Rejected,Budget Capacity Exhausted
+MSME_279,Manufacturing,High,Green Tech Grant,850000,760,927.2,167.2,9,119.73999999999998,0.0001408705882352941,Rejected,Budget Capacity Exhausted
+MSME_042,Renewable Energy,High,Green Tech Grant,850000,746,910.12,164.12,9,117.584,0.00013833411764705884,Rejected,Budget Capacity Exhausted
+MSME_104,Technology,Low,Digital Startup Fund,300000,565,621.5,56.5,4,40.75,0.00013583333333333335,Rejected,Budget Capacity Exhausted
+MSME_107,Pharmaceuticals,High,Pharma R&D Incentive,1000000,728,910.0,182.0,10,130.4,0.0001304,Rejected,Budget Capacity Exhausted
+MSME_124,Renewable Energy,High,Green Tech Grant,850000,700,854.0,154.0,9,110.5,0.00013,Rejected,Budget Capacity Exhausted
+MSME_193,Manufacturing,High,Green Tech Grant,850000,697,850.34,153.34,9,110.038,0.00012945647058823528,Rejected,Budget Capacity Exhausted
+MSME_328,Renewable Energy,High,Green Tech Grant,850000,691,843.02,152.02,9,109.114,0.00012836941176470589,Rejected,Budget Capacity Exhausted
+MSME_360,Retail,Moderate,Rural Agri-Boost,400000,464,533.6,69.6,6,50.51999999999999,0.00012629999999999998,Rejected,Budget Capacity Exhausted
+MSME_239,Retail,Moderate,Rural Agri-Boost,400000,459,527.85,68.85,6,49.99499999999999,0.00012498749999999997,Rejected,Budget Capacity Exhausted
+MSME_356,Renewable Energy,High,Green Tech Grant,850000,671,818.62,147.62,9,106.034,0.00012474588235294117,Rejected,Budget Capacity Exhausted
+MSME_102,Services,Low,Digital Startup Fund,300000,506,556.6,50.6,4,36.620000000000005,0.00012206666666666669,Rejected,Budget Capacity Exhausted
+MSME_150,Textiles,Moderate,Textile Modernization,550000,755,845.6,90.6,7,65.52,0.00011912727272727272,Rejected,Budget Capacity Exhausted
+MSME_064,Manufacturing,Moderate,Textile Modernization,550000,752,842.24,90.24,7,65.26799999999999,0.00011866909090909088,Rejected,Budget Capacity Exhausted
+MSME_326,Pharmaceuticals,High,Pharma R&D Incentive,1000000,642,802.5,160.5,10,115.35,0.00011535,Rejected,Budget Capacity Exhausted
+MSME_201,Renewable Energy,High,Green Tech Grant,850000,619,755.18,136.18,9,98.026,0.00011532470588235293,Rejected,Budget Capacity Exhausted
+MSME_331,Manufacturing,Moderate,Textile Modernization,550000,729,816.48,87.48,7,63.336,0.00011515636363636364,Rejected,Budget Capacity Exhausted
+MSME_185,Manufacturing,High,Green Tech Grant,850000,611,745.42,134.42,9,96.79399999999998,0.00011387529411764704,Rejected,Budget Capacity Exhausted
+MSME_289,Manufacturing,High,Green Tech Grant,850000,598,729.56,131.56,9,94.792,0.00011152,Rejected,Budget Capacity Exhausted
+MSME_298,Renewable Energy,High,Green Tech Grant,850000,595,725.9,130.9,9,94.33,0.00011097647058823529,Rejected,Budget Capacity Exhausted
+MSME_189,Renewable Energy,High,Green Tech Grant,850000,594,724.68,130.68,9,94.176,0.00011079529411764707,Rejected,Budget Capacity Exhausted
+MSME_353,Manufacturing,Moderate,Textile Modernization,550000,682,763.84,81.84,7,59.388,0.00010797818181818181,Rejected,Budget Capacity Exhausted
+MSME_014,Retail,Moderate,Rural Agri-Boost,400000,391,449.65,58.65,6,42.855,0.0001071375,Rejected,Budget Capacity Exhausted
+MSME_355,Textiles,Moderate,Textile Modernization,550000,670,750.4,80.4,7,58.38,0.00010614545454545455,Rejected,Budget Capacity Exhausted
+MSME_287,Manufacturing,Moderate,Textile Modernization,550000,667,747.04,80.04,7,58.128,0.00010568727272727272,Rejected,Budget Capacity Exhausted
+MSME_072,Services,Low,Digital Startup Fund,300000,433,476.3,43.3,4,31.509999999999994,0.00010503333333333332,Rejected,Budget Capacity Exhausted
+MSME_363,Manufacturing,Moderate,Textile Modernization,550000,659,738.08,79.08,7,57.455999999999996,0.00010446545454545454,Rejected,Budget Capacity Exhausted
+MSME_111,Textiles,Moderate,Textile Modernization,550000,651,729.12,78.12,7,56.784,0.00010324363636363636,Rejected,Budget Capacity Exhausted
+MSME_277,Manufacturing,High,Green Tech Grant,850000,548,668.56,120.56,9,87.092,0.00010246117647058823,Rejected,Budget Capacity Exhausted
+MSME_354,Textiles,Moderate,Textile Modernization,550000,640,716.8,76.8,7,55.86,0.00010156363636363636,Rejected,Budget Capacity Exhausted
+MSME_054,Technology,High,Pharma R&D Incentive,1000000,562,702.5,140.5,10,101.35,0.00010135,Rejected,Budget Capacity Exhausted
+MSME_390,Manufacturing,Moderate,Textile Modernization,550000,630,705.6,75.6,7,55.019999999999996,0.00010003636363636363,Rejected,Budget Capacity Exhausted
+MSME_362,Manufacturing,High,Green Tech Grant,850000,532,649.04,117.04,9,84.628,9.956235294117647e-05,Rejected,Budget Capacity Exhausted
+MSME_140,Manufacturing,High,Green Tech Grant,850000,504,614.88,110.88,9,80.31599999999999,9.448941176470586e-05,Rejected,Budget Capacity Exhausted
+MSME_200,Retail,Moderate,Rural Agri-Boost,400000,333,382.95,49.95,6,36.76499999999999,9.191249999999998e-05,Rejected,Budget Capacity Exhausted
+MSME_275,Manufacturing,Moderate,Textile Modernization,550000,573,641.76,68.76,7,50.232,9.133090909090909e-05,Rejected,Budget Capacity Exhausted
+MSME_148,Retail,Moderate,Rural Agri-Boost,400000,317,364.55,47.55,6,35.084999999999994,8.771249999999998e-05,Rejected,Budget Capacity Exhausted
+MSME_015,Textiles,Moderate,Textile Modernization,550000,541,605.92,64.92,7,47.544,8.644363636363636e-05,Rejected,Budget Capacity Exhausted
+MSME_173,Retail,Moderate,Rural Agri-Boost,400000,312,358.8,46.8,6,34.559999999999995,8.639999999999999e-05,Rejected,Budget Capacity Exhausted
+MSME_217,Technology,High,Pharma R&D Incentive,1000000,464,580.0,116.0,10,84.19999999999999,8.419999999999999e-05,Rejected,Budget Capacity Exhausted
+MSME_359,Manufacturing,High,Green Tech Grant,850000,428,522.16,94.16,9,68.612,8.072e-05,Rejected,Budget Capacity Exhausted
+MSME_312,Renewable Energy,High,Green Tech Grant,850000,385,469.7,84.7,9,61.99,7.292941176470589e-05,Rejected,Budget Capacity Exhausted
+MSME_233,Technology,Low,Digital Startup Fund,300000,276,303.6,27.6,4,20.52,6.84e-05,Rejected,Budget Capacity Exhausted
+MSME_061,Retail,Moderate,Rural Agri-Boost,400000,240,276.0,36.0,6,27.0,6.75e-05,Rejected,Budget Capacity Exhausted
+MSME_264,Manufacturing,Moderate,Textile Modernization,550000,408,456.96,48.96,7,36.372,6.61309090909091e-05,Rejected,Budget Capacity Exhausted
+MSME_214,Renewable Energy,High,Green Tech Grant,850000,340,414.8,74.8,9,55.059999999999995,6.47764705882353e-05,Rejected,Budget Capacity Exhausted
+MSME_055,Renewable Energy,High,Green Tech Grant,850000,327,398.94,71.94,9,53.058,6.242117647058824e-05,Rejected,Budget Capacity Exhausted
+MSME_125,Agri-Tech,Moderate,Rural Agri-Boost,400000,215,247.25,32.25,6,24.375,6.09375e-05,Rejected,Budget Capacity Exhausted
+MSME_101,Renewable Energy,High,Green Tech Grant,850000,314,383.08,69.08,9,51.056,6.0065882352941175e-05,Rejected,Budget Capacity Exhausted
+MSME_247,Manufacturing,High,Green Tech Grant,850000,313,381.86,68.86,9,50.902,5.988470588235294e-05,Rejected,Budget Capacity Exhausted
+MSME_394,Textiles,Moderate,Textile Modernization,550000,362,405.44,43.44,7,32.507999999999996,5.9105454545454536e-05,Rejected,Budget Capacity Exhausted
+MSME_164,Technology,High,Pharma R&D Incentive,1000000,320,400.0,80.0,10,59.0,5.9e-05,Rejected,Budget Capacity Exhausted
+MSME_293,Manufacturing,Moderate,Textile Modernization,550000,359,402.08,43.08,7,32.25599999999999,5.8647272727272714e-05,Rejected,Budget Capacity Exhausted
+MSME_248,Manufacturing,High,Green Tech Grant,850000,302,368.44,66.44,9,49.208,5.789176470588235e-05,Rejected,Budget Capacity Exhausted
+MSME_149,Manufacturing,Moderate,Textile Modernization,550000,345,386.4,41.4,7,31.08,5.650909090909091e-05,Rejected,Budget Capacity Exhausted
+MSME_380,Manufacturing,High,Green Tech Grant,850000,289,352.58,63.58,9,47.205999999999996,5.553647058823529e-05,Rejected,Budget Capacity Exhausted
+MSME_281,Technology,High,Pharma R&D Incentive,1000000,300,375.0,75.0,10,55.5,5.55e-05,Rejected,Budget Capacity Exhausted
+MSME_231,Pharmaceuticals,High,Pharma R&D Incentive,1000000,300,375.0,75.0,10,55.5,5.55e-05,Rejected,Budget Capacity Exhausted
+MSME_089,Technology,High,Pharma R&D Incentive,1000000,285,356.25,71.25,10,52.875,5.2875e-05,Rejected,Budget Capacity Exhausted
+MSME_113,Textiles,Moderate,Textile Modernization,550000,302,338.24,36.24,7,27.468,4.994181818181818e-05,Rejected,Budget Capacity Exhausted
+MSME_179,Manufacturing,Moderate,Textile Modernization,550000,296,331.52,35.52,7,26.964000000000002,4.902545454545455e-05,Rejected,Budget Capacity Exhausted
+MSME_346,Renewable Energy,High,Green Tech Grant,850000,251,306.22,55.22,9,41.354,4.865176470588235e-05,Rejected,Budget Capacity Exhausted
+MSME_038,Manufacturing,High,Green Tech Grant,850000,246,300.12,54.12,9,40.583999999999996,4.774588235294117e-05,Rejected,Budget Capacity Exhausted
+MSME_352,Manufacturing,High,Green Tech Grant,850000,235,286.7,51.7,9,38.89,4.5752941176470586e-05,Rejected,Budget Capacity Exhausted
+MSME_004,Renewable Energy,High,Green Tech Grant,850000,216,263.52,47.52,9,35.964000000000006,4.2310588235294126e-05,Rejected,Budget Capacity Exhausted
+MSME_154,Retail,Moderate,Rural Agri-Boost,400000,138,158.7,20.7,6,16.29,4.0725e-05,Rejected,Budget Capacity Exhausted
+MSME_166,Manufacturing,Moderate,Textile Modernization,550000,227,254.24,27.24,7,21.168,3.8487272727272724e-05,Rejected,Budget Capacity Exhausted
+MSME_162,Manufacturing,High,Green Tech Grant,850000,184,224.48,40.48,9,31.035999999999994,3.651294117647058e-05,Rejected,Budget Capacity Exhausted
+MSME_163,Textiles,Moderate,Textile Modernization,550000,202,226.24,24.24,7,19.067999999999998,3.466909090909091e-05,Rejected,Budget Capacity Exhausted
+MSME_068,Manufacturing,High,Green Tech Grant,850000,172,209.84,37.84,9,29.188,3.433882352941176e-05,Rejected,Budget Capacity Exhausted
+MSME_142,Manufacturing,Moderate,Textile Modernization,550000,187,209.44,22.44,7,17.808,3.2378181818181815e-05,Rejected,Budget Capacity Exhausted
+MSME_311,Textiles,Moderate,Textile Modernization,550000,181,202.72,21.72,7,17.304,3.146181818181818e-05,Rejected,Budget Capacity Exhausted
+MSME_330,Textiles,Moderate,Textile Modernization,550000,161,180.32,19.32,7,15.623999999999999,2.8407272727272726e-05,Rejected,Budget Capacity Exhausted
+MSME_169,Renewable Energy,High,Green Tech Grant,850000,123,150.06,27.06,9,21.641999999999996,2.546117647058823e-05,Rejected,Budget Capacity Exhausted
+MSME_203,Renewable Energy,High,Green Tech Grant,850000,111,135.42,24.42,9,19.794,2.3287058823529414e-05,Rejected,Budget Capacity Exhausted
+MSME_161,Renewable Energy,High,Green Tech Grant,850000,95,115.9,20.9,9,17.33,2.0388235294117644e-05,Rejected,Budget Capacity Exhausted
+MSME_062,Renewable Energy,High,Green Tech Grant,850000,93,113.46,20.46,9,17.022,2.0025882352941175e-05,Rejected,Budget Capacity Exhausted
+MSME_365,Renewable Energy,High,Green Tech Grant,850000,86,104.92,18.92,9,15.943999999999999,1.8757647058823528e-05,Rejected,Budget Capacity Exhausted
+MSME_299,Agri-Tech,Moderate,Rural Agri-Boost,400000,48,55.2,7.2,6,6.84,1.71e-05,Rejected,Budget Capacity Exhausted
+MSME_399,Textiles,Moderate,Textile Modernization,550000,79,88.48,9.48,7,8.736,1.5883636363636364e-05,Rejected,Budget Capacity Exhausted
+MSME_336,Textiles,Moderate,Textile Modernization,550000,59,66.08,7.08,7,7.056,1.282909090909091e-05,Rejected,Budget Capacity Exhausted
+MSME_137,Manufacturing,High,Green Tech Grant,850000,48,58.56,10.56,9,10.091999999999999,1.1872941176470587e-05,Rejected,Budget Capacity Exhausted
+MSME_001,Renewable Energy,High,Green Tech Grant,850000,44,53.68,9.68,9,9.475999999999999,1.1148235294117646e-05,Rejected,Budget Capacity Exhausted
+MSME_059,Retail,Moderate,Rural Agri-Boost,400000,23,26.45,3.45,6,4.215,1.05375e-05,Rejected,Budget Capacity Exhausted
+MSME_009,Renewable Energy,High,Green Tech Grant,850000,33,40.26,7.26,9,7.782,9.15529411764706e-06,Rejected,Budget Capacity Exhausted
+MSME_288,Agri-Tech,Moderate,Rural Agri-Boost,400000,11,12.65,1.65,6,2.955,7.3875e-06,Rejected,Budget Capacity Exhausted

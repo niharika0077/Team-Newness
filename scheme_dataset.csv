@@ -1,0 +1,6 @@
+Scheme_ID,Scheme_Name,Eligible_Sectors,Max_Subsidy_Amount,Target_Category,Location_Criteria,Impact_Factor_Revenue,Impact_Factor_Employment
+1,Green Tech Grant,"Renewable Energy, Manufacturing",850000,High,All,22,9
+2,Rural Agri-Boost,"Agri-Tech, Retail",400000,Moderate,Rural,15,6
+3,Pharma R&D Incentive,"Pharmaceuticals, Technology",1000000,High,Urban,25,10
+4,Textile Modernization,"Textiles, Manufacturing",550000,Moderate,Semi-Urban,12,7
+5,Digital Startup Fund,"Services, Technology",300000,Low,All,10,4

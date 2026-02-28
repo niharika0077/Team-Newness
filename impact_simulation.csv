@@ -1,0 +1,99 @@
+MSME_ID,Sector,Growth_Category,Selected_Scheme,Subsidy_Cost,Revenue_Before,Revenue_After,Revenue_Gain,Jobs_Created
+MSME_001,Renewable Energy,High,Green Tech Grant,850000,44,53.68,9.68,9
+MSME_004,Renewable Energy,High,Green Tech Grant,850000,216,263.52,47.52,9
+MSME_009,Renewable Energy,High,Green Tech Grant,850000,33,40.26,7.26,9
+MSME_011,Retail,Moderate,Rural Agri-Boost,400000,525,603.75,78.75,6
+MSME_014,Retail,Moderate,Rural Agri-Boost,400000,391,449.65,58.65,6
+MSME_015,Textiles,Moderate,Textile Modernization,550000,541,605.92,64.92,7
+MSME_038,Manufacturing,High,Green Tech Grant,850000,246,300.12,54.12,9
+MSME_042,Renewable Energy,High,Green Tech Grant,850000,746,910.12,164.12,9
+MSME_054,Technology,High,Pharma R&D Incentive,1000000,562,702.5,140.5,10
+MSME_055,Renewable Energy,High,Green Tech Grant,850000,327,398.94,71.94,9
+MSME_059,Retail,Moderate,Rural Agri-Boost,400000,23,26.45,3.45,6
+MSME_061,Retail,Moderate,Rural Agri-Boost,400000,240,276.0,36.0,6
+MSME_062,Renewable Energy,High,Green Tech Grant,850000,93,113.46,20.46,9
+MSME_064,Manufacturing,Moderate,Textile Modernization,550000,752,842.24,90.24,7
+MSME_068,Manufacturing,High,Green Tech Grant,850000,172,209.84,37.84,9
+MSME_072,Services,Low,Digital Startup Fund,300000,433,476.3,43.3,4
+MSME_083,Agri-Tech,Moderate,Rural Agri-Boost,400000,601,691.15,90.15,6
+MSME_089,Technology,High,Pharma R&D Incentive,1000000,285,356.25,71.25,10
+MSME_101,Renewable Energy,High,Green Tech Grant,850000,314,383.08,69.08,9
+MSME_102,Services,Low,Digital Startup Fund,300000,506,556.6,50.6,4
+MSME_104,Technology,Low,Digital Startup Fund,300000,565,621.5,56.5,4
+MSME_107,Pharmaceuticals,High,Pharma R&D Incentive,1000000,728,910.0,182.0,10
+MSME_111,Textiles,Moderate,Textile Modernization,550000,651,729.12,78.12,7
+MSME_113,Textiles,Moderate,Textile Modernization,550000,302,338.24,36.24,7
+MSME_124,Renewable Energy,High,Green Tech Grant,850000,700,854.0,154.0,9
+MSME_125,Agri-Tech,Moderate,Rural Agri-Boost,400000,215,247.25,32.25,6
+MSME_137,Manufacturing,High,Green Tech Grant,850000,48,58.56,10.56,9
+MSME_140,Manufacturing,High,Green Tech Grant,850000,504,614.88,110.88,9
+MSME_142,Manufacturing,Moderate,Textile Modernization,550000,187,209.44,22.44,7
+MSME_148,Retail,Moderate,Rural Agri-Boost,400000,317,364.55,47.55,6
+MSME_149,Manufacturing,Moderate,Textile Modernization,550000,345,386.4,41.4,7
+MSME_150,Textiles,Moderate,Textile Modernization,550000,755,845.6,90.6,7
+MSME_154,Retail,Moderate,Rural Agri-Boost,400000,138,158.7,20.7,6
+MSME_161,Renewable Energy,High,Green Tech Grant,850000,95,115.9,20.9,9
+MSME_162,Manufacturing,High,Green Tech Grant,850000,184,224.48,40.48,9
+MSME_163,Textiles,Moderate,Textile Modernization,550000,202,226.24,24.24,7
+MSME_164,Technology,High,Pharma R&D Incentive,1000000,320,400.0,80.0,10
+MSME_166,Manufacturing,Moderate,Textile Modernization,550000,227,254.24,27.24,7
+MSME_169,Renewable Energy,High,Green Tech Grant,850000,123,150.06,27.06,9
+MSME_173,Retail,Moderate,Rural Agri-Boost,400000,312,358.8,46.8,6
+MSME_179,Manufacturing,Moderate,Textile Modernization,550000,296,331.52,35.52,7
+MSME_180,Retail,Moderate,Rural Agri-Boost,400000,663,762.45,99.45,6
+MSME_185,Manufacturing,High,Green Tech Grant,850000,611,745.42,134.42,9
+MSME_189,Renewable Energy,High,Green Tech Grant,850000,594,724.68,130.68,9
+MSME_193,Manufacturing,High,Green Tech Grant,850000,697,850.34,153.34,9
+MSME_196,Services,Low,Digital Startup Fund,300000,766,842.6,76.6,4
+MSME_197,Services,Low,Digital Startup Fund,300000,598,657.8,59.8,4
+MSME_200,Retail,Moderate,Rural Agri-Boost,400000,333,382.95,49.95,6
+MSME_201,Renewable Energy,High,Green Tech Grant,850000,619,755.18,136.18,9
+MSME_203,Renewable Energy,High,Green Tech Grant,850000,111,135.42,24.42,9
+MSME_214,Renewable Energy,High,Green Tech Grant,850000,340,414.8,74.8,9
+MSME_215,Retail,Moderate,Rural Agri-Boost,400000,650,747.5,97.5,6
+MSME_217,Technology,High,Pharma R&D Incentive,1000000,464,580.0,116.0,10
+MSME_218,Agri-Tech,Moderate,Rural Agri-Boost,400000,610,701.5,91.5,6
+MSME_231,Pharmaceuticals,High,Pharma R&D Incentive,1000000,300,375.0,75.0,10
+MSME_233,Technology,Low,Digital Startup Fund,300000,276,303.6,27.6,4
+MSME_239,Retail,Moderate,Rural Agri-Boost,400000,459,527.85,68.85,6
+MSME_247,Manufacturing,High,Green Tech Grant,850000,313,381.86,68.86,9
+MSME_248,Manufacturing,High,Green Tech Grant,850000,302,368.44,66.44,9
+MSME_250,Retail,Moderate,Rural Agri-Boost,400000,749,861.35,112.35,6
+MSME_264,Manufacturing,Moderate,Textile Modernization,550000,408,456.96,48.96,7
+MSME_267,Technology,Low,Digital Startup Fund,300000,792,871.2,79.2,4
+MSME_269,Renewable Energy,High,Green Tech Grant,850000,798,973.56,175.56,9
+MSME_275,Manufacturing,Moderate,Textile Modernization,550000,573,641.76,68.76,7
+MSME_277,Manufacturing,High,Green Tech Grant,850000,548,668.56,120.56,9
+MSME_279,Manufacturing,High,Green Tech Grant,850000,760,927.2,167.2,9
+MSME_281,Technology,High,Pharma R&D Incentive,1000000,300,375.0,75.0,10
+MSME_287,Manufacturing,Moderate,Textile Modernization,550000,667,747.04,80.04,7
+MSME_288,Agri-Tech,Moderate,Rural Agri-Boost,400000,11,12.65,1.65,6
+MSME_289,Manufacturing,High,Green Tech Grant,850000,598,729.56,131.56,9
+MSME_293,Manufacturing,Moderate,Textile Modernization,550000,359,402.08,43.08,7
+MSME_298,Renewable Energy,High,Green Tech Grant,850000,595,725.9,130.9,9
+MSME_299,Agri-Tech,Moderate,Rural Agri-Boost,400000,48,55.2,7.2,6
+MSME_311,Textiles,Moderate,Textile Modernization,550000,181,202.72,21.72,7
+MSME_312,Renewable Energy,High,Green Tech Grant,850000,385,469.7,84.7,9
+MSME_323,Technology,High,Pharma R&D Incentive,1000000,792,990.0,198.0,10
+MSME_326,Pharmaceuticals,High,Pharma R&D Incentive,1000000,642,802.5,160.5,10
+MSME_328,Renewable Energy,High,Green Tech Grant,850000,691,843.02,152.02,9
+MSME_330,Textiles,Moderate,Textile Modernization,550000,161,180.32,19.32,7
+MSME_331,Manufacturing,Moderate,Textile Modernization,550000,729,816.48,87.48,7
+MSME_336,Textiles,Moderate,Textile Modernization,550000,59,66.08,7.08,7
+MSME_337,Agri-Tech,Moderate,Rural Agri-Boost,400000,673,773.95,100.95,6
+MSME_346,Renewable Energy,High,Green Tech Grant,850000,251,306.22,55.22,9
+MSME_352,Manufacturing,High,Green Tech Grant,850000,235,286.7,51.7,9
+MSME_353,Manufacturing,Moderate,Textile Modernization,550000,682,763.84,81.84,7
+MSME_354,Textiles,Moderate,Textile Modernization,550000,640,716.8,76.8,7
+MSME_355,Textiles,Moderate,Textile Modernization,550000,670,750.4,80.4,7
+MSME_356,Renewable Energy,High,Green Tech Grant,850000,671,818.62,147.62,9
+MSME_359,Manufacturing,High,Green Tech Grant,850000,428,522.16,94.16,9
+MSME_360,Retail,Moderate,Rural Agri-Boost,400000,464,533.6,69.6,6
+MSME_362,Manufacturing,High,Green Tech Grant,850000,532,649.04,117.04,9
+MSME_363,Manufacturing,Moderate,Textile Modernization,550000,659,738.08,79.08,7
+MSME_365,Renewable Energy,High,Green Tech Grant,850000,86,104.92,18.92,9
+MSME_378,Manufacturing,High,Green Tech Grant,850000,762,929.64,167.64,9
+MSME_380,Manufacturing,High,Green Tech Grant,850000,289,352.58,63.58,9
+MSME_390,Manufacturing,Moderate,Textile Modernization,550000,630,705.6,75.6,7
+MSME_394,Textiles,Moderate,Textile Modernization,550000,362,405.44,43.44,7
+MSME_399,Textiles,Moderate,Textile Modernization,550000,79,88.48,9.48,7
